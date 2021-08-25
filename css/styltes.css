@@ -1,0 +1,177 @@
+header{
+   background: url(../images/nananana.jpg)no-repeat; 
+   background-size:cover;
+   background-position: top center;
+   height: 900px;
+}
+
+body{background: linear-gradient(45deg, #e66d1c, #3f11bd);
+
+}
+.top-menu{
+    text-align: center;
+}
+
+.menu{
+   padding: 0;
+   margin: 0;
+}
+
+.menu li{
+   display: inline-block;
+   margin-right: 38px;
+   margin-top: 40px;
+color: rgb(255, 255, 255);
+font-size: 25px;
+}
+
+.titles{
+   text-align: center;
+   margin-top: 250px;
+}
+
+.titles h1, .titles h2{
+   color: rgb(255, 255, 255);
+}
+.titles h1{
+   font-size: 75px;
+   text-transform: uppercase;
+   font-family: 'Oswald', sans-serif;
+   font-weight: bold;
+}
+.titles h2{
+   font-size: 40px;
+   font-weight: 'Droid Serif';
+   font-style: italic;
+}
+
+.head-but {
+   margin-top: 50px;
+   text-align: center;
+}
+
+.blue-but {
+   width: 240px;
+   padding: 15px 0;
+   border: none;
+   margin: 0 auto;
+   border-radius: 3px;
+   cursor:pointer;
+   text-transform: uppercase;
+   color: #fff;
+   font-weight: bolder;
+   background-color: #1246b5;
+   outline: none;
+}
+
+.blue-but:hover {
+   border: 1px solid #ffffff;
+   background: #fff;
+   color: #000000;
+}
+
+.title-text {
+   text-align: center;
+   padding-top: 120px;    
+}
+
+.title-text h2 {
+   font-size:40px;
+   font-weight: bold;
+   text-transform: uppercase;
+   margin: 0;    
+}
+
+.title-text p {
+   color:rgb(12, 5, 5);
+   font-size: 16px;
+   margin: 5px;   
+}
+
+.info{
+  margin-top: 20px; 
+  margin-bottom: 118px;
+
+}
+
+.content{
+   text-align: center;
+   margin-top: 50px;
+}
+
+.content img {
+   margin-bottom: 20px;
+   width: 80px;
+   height: 80px;
+
+}
+
+.content h3 {
+font-size: 18px;
+margin-bottom: 10px;
+}
+
+.content p {
+   color: rgb(0, 0, 0);
+   font-size: 14px;
+}
+.about{
+   padding-top: 84px;
+   
+}
+.about img {
+   display: block;
+   margin: auto;
+   width: 250px;
+   height: 250px;
+   border-radius: 50%;
+   border: 7px solid #7217b3;
+
+}
+
+.top-line img{
+   width:auto !important;
+   height:auto !important;
+   border:0 !important;
+}
+
+/* синий блок */
+.story{
+   width: 250px;
+   height: 250px;
+   border-radius: 50%;
+   border: 7px solid ;
+   color: rgb(255, 255, 255);
+   padding-top: 30px;
+   margin: 0 auto;
+   cursor: pointer;
+   margin-bottom: 126px;
+   background-color: blueviolet;
+}
+.story h4 {
+   text-transform: uppercase;
+   font-size: 18px;
+   text-align: center;
+}
+
+.members{
+   height: 820px;
+   background: linear-gradient(45deg, #e66d1c, #8411bd);
+  
+}
+.team{
+   margin-top: 83px;
+   text-align: center;
+}
+.team > img {
+   width: 235px;
+   height: 235px;
+   margin-bottom: 30px;
+   display: block;
+   margin: auto;
+   border: 7px solid ;
+   border-radius: 50%;
+}
+
+
+
